@@ -2,10 +2,10 @@
 This repository is the output from Team A09
 
 Team contributors:
-Peiqi Chen
-Cherish Jayant Dsouza
-Ojus Sindwani
-Tamanna Jain
+Peiqi Chen,
+Cherish Jayant Dsouza,
+Ojus Sindwani,
+Tamanna Jain,
 Yiwen Fan
 
 
