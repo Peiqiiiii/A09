@@ -1,4 +1,4 @@
-# A09
+# Analyzing Customer Booking Trends to Identify Marketing Opportunities
 This repository is the output from Team A09
 
 Team contributors:
